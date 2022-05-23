@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">project</string>
+    <string name="start">Начать</string>
+    <string name="reset">Сбросить прогресс</string>
+    <string name="speed">Рейтинговый режим</string>
+    <string name="back">Назад</string>
+    <string name="textcontinue">Продолжить</string>
+    <string name="level">Уровень:</string>
+    <string name="level1">Уровень 1</string>
+    <string name="level2">Уровень 2</string>
+    <string name="level3">Уровень 3</string>
+    <string name="level4">Уровень 4</string>
+</resources>

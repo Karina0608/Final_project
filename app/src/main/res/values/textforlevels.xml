@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lvl1text0">Ноль</string>
+    <string name="lvl1text1">Один</string>
+    <string name="lvl1text2">Два</string>
+    <string name="lvl1text3">Три</string>
+    <string name="lvl1text4">Четыре</string>
+    <string name="lvl1text5">Пять</string>
+    <string name="lvl1text6">Шесть</string>
+    <string name="lvl1text7">Семь</string>
+    <string name="lvl1text8">Восемь</string>
+    <string name="lvl1text9">Девять</string>
+
+    <string name="lvl3text1">Акация</string>
+    <string name="lvl3text2">Берёза</string>
+    <string name="lvl3text3">Бук</string>
+    <string name="lvl3text4">Черёмуха</string>
+    <string name="lvl3text5">Дуб</string>
+    <string name="lvl3text6">Ель</string>
+    <string name="lvl3text7">Ива</string>
+    <string name="lvl3text8">Каштан</string>
+    <string name="lvl3text9">Клён</string>
+    <string name="lvl3text10">Липа</string>
+    <string name="lvl3text11">Ольха</string>
+    <string name="lvl3text12">Осина</string>
+    <string name="lvl3text13">Сосна</string>
+    <string name="lvl3text14">Тополь</string>
+    <string name="lvl3text15">Ясень</string>
+
+    <string name="lvl4text1">Pink</string>
+    <string name="lvl4text2">Red</string>
+    <string name="lvl4text3">Brown</string>
+    <string name="lvl4text4">Blue</string>
+    <string name="lvl4text5">White</string>
+    <string name="lvl4text6">Yellow</string>
+    <string name="lvl4text7">Purple</string>
+    <string name="lvl4text8">Gray</string>
+    <string name="lvl4text9">Black</string>
+    <string name="lvl4text10">Light blue</string>
+    <string name="lvl4text11">Orange</string>
+    <string name="lvl4text12">Green</string>
+</resources>
